@@ -1,16 +1,29 @@
-## Hi there 👋
+```markdown
+Hi there 👋, I'm Dan Chege
 
-<!--
-**danchege/danchege** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a developer passionate about creating efficient applications and exploring cybersecurity, including penetration testing and ethical hacking.  
 
-Here are some ideas to get you started:
+🌐 Check out my portfolio: [My Portfolio](https://danchege.github.io/my_portfolio/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+GitHub Stats
+
+![Dan Chege's GitHub stats](https://github-readme-stats.vercel.app/api?username=danchege&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danchege&layout=compact&theme=radical)
+
+---
+
+GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danchege&theme=radical)
+
+---
+
+Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DanChege-blue?logo=linkedin)](https://www.linkedin.com/in/danchege)
+[![GitHub](https://img.shields.io/badge/GitHub-danchege-black?logo=github)](https://github.com/danchege)
+
+---
