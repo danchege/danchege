@@ -1,27 +1,40 @@
 # Hi — I'm Dan Chege 👋
 
-Software developer focused on building efficient, reliable applications and exploring cybersecurity—especially penetration testing and ethical hacking.
+👋 I'm Dan Chege — Software & Web Developer · Cybersecurity Enthusiast · Ethical Hacker.
 
-🌐 Portfolio: https://danchege.github.io/my_portfolio/
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Typewriter Example</title>
+<style>
+	.typewriter {
+		font-family: monospace;
+		white-space: nowrap;
+		overflow: hidden;
+		border-right: 0.15em solid orange;
+		animation: typing 5s steps(100) 1, blink 0.75s step-end infinite;
+	}
 
+	@keyframes typing {
+		from { width: 0; }
+		to { width: 100%; }
+	}
+
+	@keyframes blink {
+		50% { border-color: transparent; }
+	}
+</style>
+</head>
+<body>
+<div class="typewriter">
+👋 Hello, I'm Dan Chege ✨ Passionate Software & Web Developer | Cybersecurity Enthusiast | Ethical Hacker 💻 I build efficient applications and explore web technologies, including React, Python, Django, Node.js, and more. 🌐 I also have knowledge in penetration testing, ethical hacking, and cybersecurity practices.
+</div>
+</body>
+</html>
+```
 ---
-
-## About me
-
-- I build practical tools and small web projects that automate workflows and improve developer experience.
-- I study cybersecurity concepts and practice ethical hacking in controlled environments to strengthen defensive thinking.
-
-## Skills & tools
-
-- Languages: Python, JavaScript / TypeScript, Bash
-- Web: HTML, CSS, React (basics)
-- DevOps: Docker, Git, CI/CD
-- Security: penetration testing fundamentals, common tooling
-
-## Highlights
-
-- Projects: automation utilities, small web apps, and security experiments.
-- Interested in collaboration on open-source tooling, security research, and developer tooling.
 
 ## GitHub stats
 
@@ -40,4 +53,3 @@ Software developer focused on building efficient, reliable applications and expl
 
 ---
 
-Want a tighter bio or to highlight specific projects/roles? Tell me which projects or skills to emphasize and I’ll update it.
