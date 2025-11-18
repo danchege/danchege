@@ -24,14 +24,14 @@
 
 ---
 
-# 🧊 About Me (Glassmorphism Card)
+# 🧊 About Me 
 <p align="center">
   <img src="https://i.ibb.co/9sGdxw5/glass-card.png" width="80%">
 </p>
 
 ---
 
-# 🧰 Languages & Tools (Neon Grid)
+# 🧰 Languages & Tools 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,nodejs,express,react,mongodb,mysql,git,github,linux,ubuntu&theme=dark" />
@@ -68,7 +68,7 @@
 
 ---
 
-# 🐍 3D Snake Contribution Animation
+# Contribution 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/danchege/danchege/output/github-contribution-grid-snake-dark.svg"/>
