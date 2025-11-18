@@ -60,8 +60,8 @@ I explore **web development, penetration testing, secure backend systems**, and 
 
 <!-- Fix: your correct username is "danchegee" -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=danchegee&show_icons=true&theme=radical&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danchegee&layout=compact&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=danchege&show_icons=true&theme=radical&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danchege&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
