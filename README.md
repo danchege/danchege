@@ -31,13 +31,6 @@
 
 ---
 
-# Contribution  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/danchege/danchege/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
 # Visitors
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=danchege&style=for-the-badge&color=00F7FF">
