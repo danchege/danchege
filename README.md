@@ -1,68 +1,81 @@
-<!-- Neon Typing Effect -->
+<!-- Neon Typing Effect Looping -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=27&duration=2600&pause=700&color=00F7FF&center=true&vCenter=true&width=1000&lines=Dan+Chege;Cybersecurity+Enthusiast;Penetration+Tester;Full+Stack+Developer;Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2600&pause=500&color=00F7FF&center=true&vCenter=true&width=1000&lines=Dan+Chege;Cybersecurity+Enthusiast;Penetration+Tester;Full+Stack+Developer;Tech+Enthusiast;Cyber-Elite" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danchege/danchege/main/assets/neon-divider.gif" width="80%" />
+</p>
 
 # 💻 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,express,react,mongodb,mysql,git,github,windows,ubuntu,kali&theme=dark" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danchege/danchege/main/assets/neon-divider.gif" width="80%" />
+</p>
 
 # 🏆 GitHub Achievements
 <p align="center">
-  <!-- GitHub Trophies simplified for visibility -->
   <img src="https://github-profile-trophy.vercel.app/?username=danchege&theme=darkhub&no-bg=true&no-frame=true&margin-w=10" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danchege/danchege/main/assets/neon-divider.gif" width="80%" />
+</p>
 
 # 📊 GitHub Analytics
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=danchege&show_icons=true&theme=radical&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=danchege&show_icons=true&theme=radical"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danchege&layout=compact&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danchege&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_title=true&hide_border=false&hide_rank=false&card_width=600"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=danchege&theme=radical" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danchege/danchege/main/assets/neon-divider.gif" width="80%" />
+</p>
 
 # 🌟 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=danchege&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danchege&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_title=true&hide_border=false&hide_rank=false&card_width=600"/>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danchege/danchege/main/assets/neon-divider.gif" width="80%" />
+</p>
 
 # 🚀 Top Projects
 <p align="center">
   <a href="https://github.com/danchege/FarmBot" target="_blank">
-    <img src="https://img.shields.io/badge/FarmBot-Automation-blue?style=for-the-badge&logo=python" />
+    <img src="https://img.shields.io/badge/FarmBot-Automation-blue?style=for-the-badge&logo=python&logoColor=fff&animation=glow" />
   </a>
-  <a href="https://github.com/danchege/YT-ULTIMATE-DOWNLOADER" target="_blank">
-    <img src="https://img.shields.io/badge/YT-ULTIMATE-DOWNLOADER-Downloader-red?style=for-the-badge&logo=youtube" />
+  <a href="https://github.com/danchege/V-B3" target="_blank">
+    <img src="https://img.shields.io/badge/V-B3-Tool-red?style=for-the-badge&logo=github&logoColor=fff&animation=glow" />
   </a>
   <a href="https://github.com/danchege/Tushikane" target="_blank">
-    <img src="https://img.shields.io/badge/Tushikane-Project-blueviolet?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Tushikane-Project-blueviolet?style=for-the-badge&logo=github&logoColor=fff&animation=glow" />
   </a>
   <a href="https://github.com/danchege/CtrlZone" target="_blank">
-    <img src="https://img.shields.io/badge/CtrlZone-Gaming-blue?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/CtrlZone-Gaming-blue?style=for-the-badge&logo=github&logoColor=fff&animation=glow" />
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danchege/danchege/main/assets/neon-divider.gif" width="80%" />
+</p>
 
 # 👁️ Visitors
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=danchege&style=for-the-badge&color=00F7FF">
 </p>
-
----
 
 <p align="center">
   <sub>Crafted with 💙 by Dan Chege | Cyber-Elite README</sub>
