@@ -42,9 +42,6 @@
   <a href="https://github.com/danchege/CtrlZone" target="_blank">
     <img src="https://img.shields.io/badge/CtrlZone-Gaming-blue?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://github.com/danchege/V-B3" target="_blank">
-    <img src="https://img.shields.io/badge/V-B3-Tool-red?style=for-the-badge&logo=github" />
-  </a>
 </p>
 
 ---
