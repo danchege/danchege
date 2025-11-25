@@ -1,6 +1,6 @@
 <!-- Neon Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2600&pause=500&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hello+I'm+Daniel+Chege;Cybersecurity+Expert;Penetration+Tester;Full+Stack+Developer;Tech+Enthusiast;Cyber-Elite" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2600&pause=500&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hello+I'm+Daniel+Chege;Full+Stack+Developer;Tech+Enthusiast;Cyber-Elite" />
 </p>
 
 ---
