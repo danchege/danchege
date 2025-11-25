@@ -1,6 +1,6 @@
 <!-- Neon Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2600&pause=500&color=00F7FF&center=true&vCenter=true&width=1000&lines=Dan+Chege;Cybersecurity+Enthusiast;Penetration+Tester;Full+Stack+Developer;Tech+Enthusiast;Cyber-Elite" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2600&pause=500&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hello, I'm Daniel+Chege;Cybersecurity+Expert;Penetration+Tester;Full+Stack+Developer;Tech+Enthusiast;Cyber-Elite" />
 </p>
 
 ---
@@ -36,14 +36,14 @@
   <a href="https://github.com/danchege/FarmBot" target="_blank">
     <img src="https://img.shields.io/badge/FarmBot-Automation-blue?style=for-the-badge&logo=python" />
   </a>
-  <a href="https://github.com/danchege/V-B3" target="_blank">
-    <img src="https://img.shields.io/badge/V-B3-Tool-red?style=for-the-badge&logo=github" />
-  </a>
   <a href="https://github.com/danchege/Tushikane" target="_blank">
     <img src="https://img.shields.io/badge/Tushikane-Project-blueviolet?style=for-the-badge&logo=github" />
   </a>
   <a href="https://github.com/danchege/CtrlZone" target="_blank">
     <img src="https://img.shields.io/badge/CtrlZone-Gaming-blue?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/danchege/V-B3" target="_blank">
+    <img src="https://img.shields.io/badge/V-B3-Tool-red?style=for-the-badge&logo=github" />
   </a>
 </p>
 
@@ -57,5 +57,5 @@
 ---
 
 <p align="center">
-  <sub>Crafted by Dan Chege | Cyber-Elite README</sub>
+  <sub>Crafted by Dan Chege | Cyber-Elite </sub>
 </p>
