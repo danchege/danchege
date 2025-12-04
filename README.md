@@ -5,60 +5,47 @@
 
 ---
 
-## TECH STACK
+# Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,express,react,mongodb,mysql,git,github,windows,ubuntu,kali&theme=dark" />
 </p>
 
 ---
 
-## ACTIVITY GRAPH
+
+# Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=danchege&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00F7FF&line=00F7FF&point=FFFFFF" />
 </p>
 
 ---
 
-## GITHUB ANALYTICS
-
-<div align="center">
-  
-  <!-- Stats and Top Languages Side by Side -->
-  <table>
-    <tr>
-      <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=danchege&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-      </td>
-      <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danchege&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=github-readme-stats,danchege.github.io" />
-      </td>
-    </tr>
-  </table>
-
-  <!-- Streak Stats - Using official URL -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danchege&theme=radical&hide_border=true" />
-
-</div>
-
----
-
-## GITHUB ACHIEVEMENTS
+# GitHub Analytics
 <p align="center">
-  <!-- Fixed Trophy URL - removed problematic parameters -->
-  <img src="https://github-profile-trophy.vercel.app/?username=danchege&theme=radical&row=2&column=4&margin-w=15&margin-h=15" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=danchege&show_icons=true&theme=radical"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danchege&layout=compact&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=danchege&theme=radical" />
 </p>
 
 ---
 
-
-
-## VISITORS
+# GitHub Achievements
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=danchege&style=for-the-badge&color=00F7FF" />
+  <img src="https://github-profile-trophy.vercel.app/?username=danchege&theme=radical&row=2&column=4" />
+</p>
+
+---
+
+# Visitors
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=danchege&style=for-the-badge&color=00F7FF">
 </p>
 
 ---
 
 <p align="center">
-  <sub>Crafted by Dan Chege | Cyber-Elite</sub>
+  <sub>Crafted by Dan Chege | Cyber-Elite </sub>
 </p>
