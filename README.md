@@ -21,23 +21,22 @@
 
 ## GITHUB ANALYTICS
 
-<!-- GitHub Stats - Fixed visibility -->
 <div align="center">
   
   <!-- Stats and Top Languages Side by Side -->
   <table>
     <tr>
       <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=danchege&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=danchege&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
       </td>
       <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danchege&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danchege&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=github-readme-stats,danchege.github.io" />
       </td>
     </tr>
   </table>
 
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=danchege&theme=radical&hide_border=true&fire=00F7FF&ring=00F7FF&currStreakLabel=00F7FF" />
+  <!-- Streak Stats - Using official URL -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danchege&theme=radical&hide_border=true" />
 
 </div>
 
@@ -45,7 +44,8 @@
 
 ## GITHUB ACHIEVEMENTS
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=danchege&theme=darkhub&no-bg=true&no-frame=true&margin-w=10&column=7" />
+  <!-- Fixed Trophy URL - removed problematic parameters -->
+  <img src="https://github-profile-trophy.vercel.app/?username=danchege&theme=radical&row=2&column=4&margin-w=15&margin-h=15" />
 </p>
 
 ---
