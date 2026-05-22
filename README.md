@@ -88,13 +88,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:001F3F,100:00F7FF&height=120&section=footer"/>
 </p>
 
-<p align="center">
-  <sub>
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br/>
-  <b>$ sudo deploy --mode cyberpunk</b><br/>
-  > STATUS: CONNECTED TO THE GRID<br/>
-  > SYSTEM: danchege.exe<br/>
-  > MISSION: DESIGN • CODE • CREATE<br/>
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  </sub>
-</p>
+
