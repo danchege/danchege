@@ -30,7 +30,7 @@
 ### Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danchege&theme=react-dark&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&area_color=001F3F&hide_border=true&radius=10" />
+  <img src="https://jeskei-readme-activity-graph.vercel.app/graph?username=danchege&theme=react-dark&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&area_color=001F3F&hide_border=true&radius=10" />
 </p>
 
 ---
@@ -38,7 +38,7 @@
 ### Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=danchege&theme=darkhub&row=2&column=4&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://personal-trophy.vercel.app/api?username=danchege&theme=neon" />
 </p>
 
 ---
