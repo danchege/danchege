@@ -17,7 +17,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.svg
-          theme: dark
           config_timezone: Africa/Nairobi
 
           base: header, activity, community, repositories
